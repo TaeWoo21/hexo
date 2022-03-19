@@ -148,7 +148,7 @@ Profile.Cacheable = cacheComponent(Profile, 'widget.profile', props => {
             }
         },
         followLink: follow_link ? url_for(follow_link) : undefined,
-        followTitle: __('widget.follow'),
+        followTitle: __('Home'),
         socialLinks
     };
 });

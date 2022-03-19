@@ -64,5 +64,5 @@ theme: icarus
 #   type: ''
 deploy:
   type: git
-  repo: https://github.com/taewoo21/taewoo21.github.io.git)
+  repo: git@github.com:TaeWoo21/TaeWoo21.github.io.git
   branch: master
