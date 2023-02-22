@@ -29,6 +29,6 @@
     "hexo-theme-landscape": "^0.0.3",
     "inferno": "^7.4.11",
     "inferno-create-element": "^7.4.11",
-    "mongoose": "^6.0.14"
+    "mongoose": "^6.10.0"
   }
 }
